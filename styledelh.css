@@ -1,44 +1,28 @@
 h1{
-    color: black;
+    color: white;
     text-align: left;
 }
 h2{
-    color: black;
+    color: white;
     text-align: left;
 }
 p{
     text-align: justify;
+    color: azure;
 }
 h3{
     color: white;
 }
-.santiago {
+img{
     border-radius: 50%;
     display: block;
   margin-left: auto;
   margin-right: auto;
 }
 body{
-    background-image: url(img/e.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color:black;
 }
-
-
-
-.galeriadelpapu {
-    border: 3px solid black;
-    margin-left: 20px;
-    margin-right: 20px;
-}
-
-.galeriadelpapu img {
-    margin-left: 5px;
-    margin-left: 5px;
-    margin-bottom: 10px;
-}
-
-.vertical{
-    width: 20%;
-    height: 50%;
+footer{
+    color: white;
+    
 }
