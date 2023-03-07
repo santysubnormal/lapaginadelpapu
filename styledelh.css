@@ -12,7 +12,7 @@ p{
 h3{
     color: white;
 }
-img{
+.santiago {
     border-radius: 50%;
     display: block;
   margin-left: auto;
@@ -20,4 +20,25 @@ img{
 }
 body{
     background-image: url(img/e.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.galeriadelpapu {
+    border: 3px solid black;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.galeriadelpapu img {
+    margin-left: 5px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+
+.vertical{
+    width: 20%;
+    height: 50%;
 }
